@@ -1,0 +1,150 @@
+﻿body, html {
+    color: #383838;
+    font: 12px/2em sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7dc;
+    height:90%;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: darkgreen;
+}
+#page {
+    background: #fff none repeat scroll 0 0;
+    margin-left: 13%;
+    margin-right: 13%;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+#header, #footer, #top-nav, #content, #content #contentbar, #content #sidebar {
+    margin: 0;
+    padding: 0;
+}
+#logo {
+    float: left;
+    padding: 0;
+    width: auto;
+}
+#logo h1 a, h1 a:hover {
+    color: darkgreen;
+    text-decoration: none;
+}
+#logo h1 span {
+    color: lightgreen;
+}
+#header {
+    background: #fff none repeat scroll 0 0;
+    height: 40px;
+    padding-top: 10px;
+}
+#header-inner {
+    margin: 0 auto;
+    padding: 0;
+}
+.feature {
+    margin-left: 13%;
+    margin-right: 13%;
+    padding-top: 60px;
+}
+.feature-inner {
+    margin: auto;
+}
+.feature-inner h1 {
+    color: green;
+    font-size: 22px;
+}
+#top-nav {
+    float: right;
+    height: 37px;
+    margin: 0 auto;
+    padding: 0;
+}
+#top-nav ul {
+    float: left;
+    height: 40px;
+    list-style: outside none none;
+    padding: 0;
+}
+#top-nav ul li {
+    float: left;
+    margin: 0;
+    padding: 0 0 0 8px;
+}
+#top-nav ul li a {
+    color: green;
+    display: block;
+    margin: 0;
+    padding: 8px 10px;
+    text-decoration: none;
+}
+#top-nav ul li.active a, #top-nav ul li a:hover {
+    color: lightgreen;
+}
+#content-inner {
+    background: #fff none repeat scroll 0 0;
+    text-align: justify;
+    text-justify: inter-word;
+    margin: 0 auto;
+    padding: 60px 0;
+    font-size:13Px;
+}
+#content #contentbar {
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 55%;
+}
+#content #contentbar .article {
+    margin: 0 0 24px;
+}
+#content #contentbar .article img {
+    display: block;
+    margin: auto;
+    max-height: 80%;
+    max-width: 80%;
+}
+#content #sidebar {
+    float: right;
+    padding: 0;
+    width: 35%;
+}
+#content #sidebar .widget-article {
+    font-size: 14px;
+    line-height: 1.4em;
+    margin: 0 0 70px;
+}
+#content #sidebar .widget-article h3 a {
+    font-size: 16px;
+    text-decoration: none;
+}
+#footer {
+    background: #efefef none repeat scroll 0 0;
+    bottom: 0;
+    left: 13%;
+    padding-top: 20px;
+    position: absolute;
+    width: 74%;
+}
+#footer-inner {   
+    text-align: center;
+    text-decoration: none;
+    color: green;
+}
+#footer a {
+    color: green;
+    text-decoration: none;
+}
+.clr {
+    clear: both;
+    font-size: 0;
+    line-height: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.code{
+    background-color: #fbedbb;
+    color: #000000;
+    font-size: 12px;
+}

@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Administrator\Documents\SankeyWebApp</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>07/13/2017 18:37:31</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>07/13/2017 18:37:31</publishTime>
+    </File>
+    <File Include="bin/ClosedXML.dll">
+      <publishTime>04/03/2017 10:10:06</publishTime>
+    </File>
+    <File Include="bin/DocumentFormat.OpenXml.dll">
+      <publishTime>08/04/2013 13:21:24</publishTime>
+    </File>
+    <File Include="bin/IEF_Visualization.dll">
+      <publishTime>10/09/2018 16:12:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>11/30/2016 16:07:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>12/07/2016 11:45:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>12/07/2016 11:50:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>12/06/2016 15:15:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>12/07/2016 11:49:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>12/07/2016 11:50:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>12/06/2016 15:09:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>06/19/2015 01:01:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="css/body.css">
+      <publishTime>11/09/2017 11:33:15</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>11/09/2017 11:33:16</publishTime>
+    </File>
+    <File Include="css/footer-distributed-with-address-and-phones.css">
+      <publishTime>11/09/2017 11:33:17</publishTime>
+    </File>
+    <File Include="css/jquery-ui.css">
+      <publishTime>11/09/2017 11:33:17</publishTime>
+    </File>
+    <File Include="css/main.css">
+      <publishTime>11/09/2017 11:33:17</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>11/09/2017 11:33:17</publishTime>
+    </File>
+    <File Include="frmAboutUs.aspx">
+      <publishTime>11/13/2017 15:56:36</publishTime>
+    </File>
+    <File Include="frmBuildChart.aspx">
+      <publishTime>11/16/2017 15:02:11</publishTime>
+    </File>
+    <File Include="frmBuildMap.aspx">
+      <publishTime>11/16/2017 15:02:11</publishTime>
+    </File>
+    <File Include="frmCircularSankey.aspx">
+      <publishTime>12/07/2017 14:32:42</publishTime>
+    </File>
+    <File Include="frmCircularSankeyLP.aspx">
+      <publishTime>11/16/2017 15:02:11</publishTime>
+    </File>
+    <File Include="frmFAQs.aspx">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="frmForum.aspx">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="frmHelp.aspx">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="frmHome.aspx">
+      <publishTime>12/11/2017 09:27:59</publishTime>
+    </File>
+    <File Include="frmTerms.aspx">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="frmUserGuide.aspx">
+      <publishTime>12/11/2017 09:33:38</publishTime>
+    </File>
+    <File Include="frmUserManager.aspx">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="frmUserProfile.aspx">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>07/13/2017 18:44:54</publishTime>
+    </File>
+    <File Include="resources/Example_data.xlsx">
+      <publishTime>12/07/2017 14:22:46</publishTime>
+    </File>
+    <File Include="resources/Global_2007.png">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="resources/IEF_Logo.png">
+      <publishTime>08/08/2018 16:08:01</publishTime>
+    </File>
+    <File Include="resources/Login_Button.jpg">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="resources/sampleSankey_final.png">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="resources/sampleSankey_raw.png">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="resources/SankeySample1.png">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="resources/SteelSankey_2008_Global_V1.png">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="resources/uni_freiburg.png">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="resources/Uni_Logo.png">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/canvas-toBlob.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/circular_sankey_lib.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/circular_sankey_script.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/custom_map.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/fileExporter.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/fileUploader.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/lib/ai.0.15.0-build58334.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/lib/ai.0.15.0-build58334.min.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/lib/Blob.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/lib/canvg.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/lib/d3.geo.min.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/lib/d3.geo.projection.v0.min.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/lib/d3.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/lib/d3.min.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/lib/d3.v3.min.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/lib/d3pie-source.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/lib/farbtastic.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/lib/FileSaver.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/lib/FileSaver.min.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/lib/jquery-1.12.4.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/lib/jquery-3.1.1.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/lib/jquery-3.1.1.min.js">
+      <publishTime>12/01/2017 15:12:33</publishTime>
+    </File>
+    <File Include="scripts/lib/jquery-ui.js">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="scripts/lib/jscolor.js">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="scripts/lib/jscolor.min.js">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="scripts/lib/rgbcolor.js">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="scripts/lib/topojson.min.js">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="scripts/lib/topojson.v0.min.js">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="scripts/lib/world-topo-min.json">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="scripts/lib/_default-settings.js">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="scripts/lib/_helpers.js">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="scripts/lib/_labels.js">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="scripts/lib/_math.js">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="scripts/lib/_segments.js">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="scripts/lib/_text.js">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="scripts/lib/_tooltips.js">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="scripts/lib/_validate.js">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="scripts/pieChartMaker.js">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="scripts/script.js">
+      <publishTime>12/01/2017 15:12:34</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/09/2018 16:12:35</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
